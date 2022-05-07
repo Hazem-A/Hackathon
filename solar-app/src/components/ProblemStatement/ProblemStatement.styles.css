@@ -1,0 +1,12 @@
+.ps_body {
+    background-color: #FFE978;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding: 10px;
+}
+
+.ps_title {
+    font-size: 50px;
+}
