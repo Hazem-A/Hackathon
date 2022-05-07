@@ -1,10 +1,10 @@
 import React from 'react';
 
-import './Header.styles.css';
+import './Splash.styles.css';
 
 import favicon from '../../assets/img/favicon.png'
 
-const Header = () => {
+const Splash = () => {
     return (
         <header className='header'>
             <div className='title'>
@@ -16,4 +16,4 @@ const Header = () => {
         </header>
     );
 }
-export default Header;
+export default Splash;
