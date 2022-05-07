@@ -1,0 +1,25 @@
+.header {
+    background-size: cover;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    background-image: url('../../assets/img/splash_screen.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.title {
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+}
+
+.title_text {
+    font-size: 50px;
+}
+
+.logo {
+    height: 100px;
+    width: 100px;
+}
