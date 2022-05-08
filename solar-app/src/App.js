@@ -12,7 +12,9 @@ function App() {
     <div className="App">
       <Splash />
       <ProblemStatement />
+      <h1>Historical Cloud_Covering in Alberta</h1>
       <img src={plot} alt='figure' className='figure' />
+      <h1>PhotoVoltaic Potential throughout the year</h1>
       <img src={photo_pot} alt='photovoltaic potential' className='figure' />
     </div>
   );
